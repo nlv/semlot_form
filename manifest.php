@@ -8,7 +8,7 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2016-08-18',
     'type' => 'module',
-    'version' => '1.0.0',
+    'version' => '1.1.0',
 );
 $installdefs = array(
     'id' => 'semlot_forms',
