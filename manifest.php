@@ -6,9 +6,9 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin@pravmail.ru',
     'description' => 'Формы для semlot.',
     'is_uninstallable' => true,
-    'published_date' => '2016-08-18',
+    'published_date' => '2016-08-20',
     'type' => 'module',
-    'version' => '1.1.0',
+    'version' => '1.2.0',
 );
 $installdefs = array(
     'id' => 'semlot_forms',
